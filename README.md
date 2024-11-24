@@ -53,11 +53,7 @@ pip install tensorboardx==2.1 easydict python-lmdb tqdm
 ## Citation
 
 ```
-@article{xuyao2022,
-  title={A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos},
-  author={Yao, Xu and Newson, Alasdair and Gousseau, Yann and Hellier, Pierre},
-  journal={European conference on computer vision},
-  year={2022}
+@article{
 }
 ```
 ## License
